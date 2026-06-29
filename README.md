@@ -111,3 +111,11 @@ python main.py
 3. Watch both chatbots respond simultaneously in their respective panels
 4. Compare the responses side-by-side
 5. Click "Clear" to reset both chat windows
+
+## Author
+Kulani Maphosa
+GitHub: decodb
+LinkedIn: Kulani Maphosa
+Email: kulanimaphosa@gmail.com
+
+
